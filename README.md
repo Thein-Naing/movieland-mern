@@ -1,8 +1,8 @@
 # movieland-mern
 
 This is my movieland-mern stack app.
-I did almost 60% by myself but 40% for css/frontend part I need to revisit video tutorial "Build a Watchlist Using the MERN Stack | React, TMDB API, Express, MongoDB Tutorial 
-(2023) from AlfredWebDev youtube channel". My frontend skill is still sucked. Sorry for that.
+I did almost 60% including all backend part by myself but 40% for css/frontend part I need to revisit video tutorial "Build a Watchlist Using the MERN Stack | React, TMDB API, Express, MongoDB Tutorial 
+(2023) from AlfredWebDev youtube channel". My frontend skill is still sucked. Sorry for that.. Also backend part for this app is  a bit confusing or a bit complicated.
 But when deploying in Netlify.com , there is some problems with my github repo and i am still trying to fix it.
 You can  create and add your favorite movie list by using IMDB movie database movie id number. Then save this movies data in mongodb databse collection .
 Below is the  images of app.
