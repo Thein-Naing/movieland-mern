@@ -7,7 +7,7 @@ I did almost 60% including all backend part by myself but 40% for css/frontend p
 
 Also backend part for this app is  a bit confusing or a bit complicated. But I will  do again this app till I can do all backend and frontend 100% by myself without any help.
 
-Also when I was deploying  this appin Netlify.com , there is some problems with my github repo and i am still trying to fix it. I need to learn how to deploy mern stack app asap.
+Also when I was deploying  this app in Netlify.com , there is some problems with my github repo and i am still trying to fix it. I need to learn how to deploy mern stack app asap.
 
 You can  create and add your favorite movie list by using IMDB movie database movie id number. Then save this movies data in mongodb databse collection .
 Below is the  images of app.
