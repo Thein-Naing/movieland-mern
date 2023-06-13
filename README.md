@@ -9,3 +9,7 @@ Below is the  images of app.
 
 
 ![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/626635d1-4ff1-4d01-91ae-76c38aca6e69)
+
+![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/35684410-ab1f-41bc-9420-1027bb39ccd1)
+
+![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/010a7712-ed18-40fa-afc8-b097afa3b500)
