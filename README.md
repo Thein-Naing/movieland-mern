@@ -11,8 +11,10 @@ Also backend part for this app is  a bit confusing or a bit complicated. But I w
 
 Also when I was deploying  this app in Netlify.com , there is some problems with my github repo and i am still trying to fix it. I need to learn how to deploy mern stack app asap.
 
-You can  create and add your favorite movie list by using IMDB movie database movie id number. Then save this movies data in mongodb databse collection .
-Below is the  images of app.
+You can  create and add your favorite movie list by using IMDB movie database movie id number.
+You can delete your movie list also.
+All your movies data will be saved in mongodb databse collection .
+Below is the images of app.
 
 
 ![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/626635d1-4ff1-4d01-91ae-76c38aca6e69)
