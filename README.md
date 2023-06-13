@@ -16,6 +16,7 @@ You can  create and add your favorite movie list by using IMDB movie database mo
 You can delete your movie list also.
 All your movies data will be saved in mongodb databse collection .
 Below is the images of app.
+![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/015734db-1eed-4137-b3fb-f250d4331b10)
 
 ![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/c5707e86-ba95-4663-aac2-4d573dd3db74)
 
