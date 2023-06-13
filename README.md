@@ -3,7 +3,9 @@
 Hi there...This is my movieland-mern stack app.
 
 I did almost 60% including all backend part by myself but 40% for css/frontend part I need to revisit video tutorial "Build a Watchlist Using the MERN Stack | React, TMDB API, Express, MongoDB Tutorial 
-(2023) from AlfredWebDev youtube channel". My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo a bit different from this video tutorail.
+(2023) from AlfredWebDev youtube channel". 
+
+My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo a bit different from this video tutorail.
 
 Also backend part for this app is  a bit confusing or a bit complicated. But I will  do again this app till I can do all backend and frontend 100% by myself without any help.
 
