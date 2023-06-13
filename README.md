@@ -7,7 +7,9 @@ I did almost 60% including all backend part by myself but 40% for css/frontend p
 
 My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo a bit different from this video tutorail.
 
-Also backend part for this app is  a bit confusing or a bit complicated. But I will  do again this app till I can do all backend and frontend 100% by myself without any help.
+Also backend part for this app is  a bit confusing or a bit complicated. It is not good practice to avoid adding routes/controller in seperate folder. in server.js file all routes and controllers function are added .This is a small skill project if medium or large project . I must do different folders for models/routes/controllers/server/DB/.handleSync  e.t.c
+
+But I will  do again this app till I can do all backend and frontend 100% by myself without any help.
 
 Also when I was deploying  this app in Netlify.com , there is some problems with my github repo and i am still trying to fix it. I need to learn how to deploy mern stack app asap.
 
