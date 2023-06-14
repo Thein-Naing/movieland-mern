@@ -5,7 +5,7 @@ Hi there...This is my movieland-mern stack app.
 I did almost 60% including all backend part by myself but 40% for css/frontend part I need to revisit video tutorial "Build a Watchlist Using the MERN Stack | React, TMDB API, Express, MongoDB Tutorial 
 (2023) from AlfredWebDev youtube channel". 
 
-My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo a bit different from this video tutorail.
+My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo different from this video tutorial( I created routes/controllers foldeers and files in server side for more readable coding practice).
 
 Also backend part for this app is  a bit confusing or a bit complicated. It is not good practice to avoid adding routes/controller in seperate folder. in server.js file all routes and controllers function are added .This is a small skill project if medium or large project . I must do different folders for models/routes/controllers/server/DB/.handleSync  e.t.c
 
@@ -16,6 +16,7 @@ You can  create and add your favorite movie list by using IMDB movie database mo
 You can delete your movie list also.
 All your movies data will be saved in mongodb databse collection .
 Below is the images of app.
+14-6-2023 I tried second time .code is working but when try to deploy , error axios error.I will try tomorrow again.
 ![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/015734db-1eed-4137-b3fb-f250d4331b10)
 
 ![image](https://github.com/Thein-Naing/movieland-mern/assets/117463446/c5707e86-ba95-4663-aac2-4d573dd3db74)
