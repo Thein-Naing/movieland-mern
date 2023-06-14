@@ -5,9 +5,9 @@ Hi there...This is my movieland-mern stack app.
 I did almost 60% including all backend part by myself but 40% for css/frontend part I need to revisit video tutorial "Build a Watchlist Using the MERN Stack | React, TMDB API, Express, MongoDB Tutorial 
 (2023) from AlfredWebDev youtube channel". 
 
-My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo different from this video tutorial( I created routes/controllers foldeers and files in server side for more readable coding practice).
+My frontend skill is still sucked. Sorry for that. But backend part for this app i did by myself almost 100% and  aslo different from this video tutorial( I created routes/controllers folders and files in server side for more readable coding practice).
 
-Also backend part for this app is  a bit confusing or a bit complicated. It is not good practice to avoid adding routes/controller in seperate folder. in server.js file all routes and controllers function are added .This is a small skill project if medium or large project . I must do different folders for models/routes/controllers/server/DB/.handleSync  e.t.c
+Also backend part for this app is  a bit confusing or a bit complicated. It is not good practice to avoid adding routes/controller in seperate folder. in server.js file all routes and controllers function are added .This is a small skill project if medium or large project,I must do different folders for models/routes/controllers/server/DB/handleSync e.t.c
 
 
 Also when I was deploying  this app in Netlify.com , there is some problems with my github repo and i am still trying to fix it. I need to learn how to deploy mern stack app asap.
